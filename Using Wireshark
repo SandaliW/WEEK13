@@ -1,0 +1,18 @@
+
+    #Page (wiki) on GITHUB revealing Experiment Results in Lab Az12-203
+
+       Start with:
+
+https://www.wireshark.org/docs/wsug_html_chunked/ChCustCommandLine.html
+
+
+#sudo yum install imagemagic
+#installed Github, wireshark and nmap
+#talked about intellij
+#instead of tcpdump, npcap id=s the new one
+#tshark
+#in the class
+#tcpdump -c 10 -ttt > tcpdump.txt  10 means 10 packets
+#ls -l
+#cat tcpdumo.txt
+#sudo ttcpdump
